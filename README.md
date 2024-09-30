@@ -623,7 +623,7 @@
 |**2024-08-21**|**UniFashion: A Unified Vision-Language Model for Multimodal Fashion Retrieval and Generation**|Xiangyu Zhao et.al.|[2408.11305](http://arxiv.org/abs/2408.11305)|**[link](https://github.com/xiangyu-mm/unifashion)**|
 |**2024-08-20**|**GSLoc: Efficient Camera Pose Refinement via 3D Gaussian Splatting**|Changkun Liu et.al.|[2408.11085](http://arxiv.org/abs/2408.11085)|null|
 |**2024-08-19**|**BrewCLIP: A Bifurcated Representation Learning Framework for Audio-Visual Retrieval**|Zhenyu Lu et.al.|[2408.10383](http://arxiv.org/abs/2408.10383)|null|
-|**2024-08-23**|**Fashion Image-to-Image Translation for Complementary Item Retrieval**|Matteo Attimonelli et.al.|[2408.09847](http://arxiv.org/abs/2408.09847)|null|
+|**2024-08-23**|**Fashion Image-to-Image Translation for Complementary Item Retrieval**|Matteo Attimonelli et.al.|[2408.09847](http://arxiv.org/abs/2408.09847)|**[link](https://github.com/sisinflab/geco)**|
 |**2024-08-20**|**MambaLoc: Efficient Camera Localisation via State Space Model**|Jialu Wang et.al.|[2408.09680](http://arxiv.org/abs/2408.09680)|null|
 |**2024-08-16**|**ADen: Adaptive Density Representations for Sparse-view Camera Pose Estimation**|Hao Tang et.al.|[2408.09042](http://arxiv.org/abs/2408.09042)|null|
 |**2024-08-16**|**Correspondence-Guided SfM-Free 3D Gaussian Splatting for NVS**|Wei Sun et.al.|[2408.08723](http://arxiv.org/abs/2408.08723)|null|
@@ -1770,7 +1770,7 @@
 |**2024-09-25**|**Towards Unified 3D Hair Reconstruction from Single-View Portraits**|Yujian Zheng et.al.|[2409.16863](http://arxiv.org/abs/2409.16863)|null|
 |**2024-09-24**|**GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization**|Gennady Sidorov et.al.|[2409.16502](http://arxiv.org/abs/2409.16502)|**[link](https://github.com/haksorus/gsplatloc)**|
 |**2024-09-24**|**Frequency-based View Selection in Gaussian Splatting Reconstruction**|Monica M. Q. Li et.al.|[2409.16470](http://arxiv.org/abs/2409.16470)|null|
-|**2024-09-26**|**Gaussian Deja-vu: Creating Controllable 3D Gaussian Head-Avatars with Enhanced Generalization and Personalization Abilities**|Peizhi Yan et.al.|[2409.16147](http://arxiv.org/abs/2409.16147)|null|
+|**2024-09-26**|**Gaussian Deja-vu: Creating Controllable 3D Gaussian Head-Avatars with Enhanced Generalization and Personalization Abilities**|Peizhi Yan et.al.|[2409.16147](http://arxiv.org/abs/2409.16147)|**[link](https://github.com/peizhiyan/flame-head-tracker)**|
 |**2024-09-27**|**SpikeGS: Learning 3D Gaussian Fields from Continuous Spike Stream**|Jinze Yu et.al.|[2409.15176](http://arxiv.org/abs/2409.15176)|**[link](https://github.com/520jz/spikegs)**|
 |**2024-09-23**|**Human Hair Reconstruction with Strand-Aligned 3D Gaussians**|Egor Zakharov et.al.|[2409.14778](http://arxiv.org/abs/2409.14778)|null|
 |**2024-09-22**|**MVPGS: Excavating Multi-view Priors for Gaussian Splatting from Sparse Input Views**|Wangze Xu et.al.|[2409.14316](http://arxiv.org/abs/2409.14316)|null|
