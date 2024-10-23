@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.22
+## Updated on 2024.10.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1848,8 +1848,8 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-21**|**MvDrag3D: Drag-based Creative 3D Editing via Multi-view Generation-Reconstruction Priors**|Honghua Chen et.al.|[2410.16272](http://arxiv.org/abs/2410.16272)|null|
 |**2024-10-21**|**3DGS-Enhancer: Enhancing Unbounded 3D Gaussian Splatting with View-consistent 2D Diffusion Priors**|Xi Liu et.al.|[2410.16266](http://arxiv.org/abs/2410.16266)|null|
-|**2024-10-21**|**LucidFusion: Generating 3D Gaussians with Arbitrary Unposed Images**|Hao He et.al.|[2410.15636](http://arxiv.org/abs/2410.15636)|null|
-|**2024-10-21**|**Fully Explicit Dynamic Gaussian Splatting**|Junoh Lee et.al.|[2410.15629](http://arxiv.org/abs/2410.15629)|null|
+|**2024-10-22**|**LucidFusion: Generating 3D Gaussians with Arbitrary Unposed Images**|Hao He et.al.|[2410.15636](http://arxiv.org/abs/2410.15636)|null|
+|**2024-10-22**|**Fully Explicit Dynamic Gaussian Splatting**|Junoh Lee et.al.|[2410.15629](http://arxiv.org/abs/2410.15629)|null|
 |**2024-10-20**|**EF-3DGS: Event-Aided Free-Trajectory 3D Gaussian Splatting**|Bohao Liao et.al.|[2410.15392](http://arxiv.org/abs/2410.15392)|null|
 |**2024-10-18**|**Neural Signed Distance Function Inference through Splatting 3D Gaussians Pulled on Zero-Level Set**|Wenyuan Zhang et.al.|[2410.14189](http://arxiv.org/abs/2410.14189)|null|
 |**2024-10-17**|**DepthSplat: Connecting Gaussian Splatting and Depth**|Haofei Xu et.al.|[2410.13862](http://arxiv.org/abs/2410.13862)|**[link](https://github.com/cvg/depthsplat)**|
