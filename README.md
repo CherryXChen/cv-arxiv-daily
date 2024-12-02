@@ -977,7 +977,7 @@
 |**2022-08-25**|**A Privacy-Preserving and End-to-End-Based Encrypted Image Retrieval Scheme**|Zhixun Lu et.al.|[2208.11876](http://arxiv.org/abs/2208.11876)|null|
 |**2022-08-23**|**Satellite Image Search in AgoraEO**|Ahmet Kerem Aksoy et.al.|[2208.10830](http://arxiv.org/abs/2208.10830)|null|
 |**2022-08-20**|**Fuse and Attend: Generalized Embedding Learning for Art and Sketches**|Ujjal Kr Dutta et.al.|[2208.09698](http://arxiv.org/abs/2208.09698)|null|
-|**2022-08-19**|**Self-Supervised Visual Place Recognition by Mining Temporal and Feature Neighborhoods**|Chao Chen et.al.|[2208.09315](http://arxiv.org/abs/2208.09315)|null|
+|**2022-08-19**|**Self-Supervised Visual Place Recognition by Mining Temporal and Feature Neighborhoods**|Chao Chen et.al.|[2208.09315](http://arxiv.org/abs/2208.09315)|**[link](https://github.com/ai4ce/TF-VPR)**|
 |**2022-08-19**|**TTT-UCDR: Test-time Training for Universal Cross-Domain Retrieval**|Soumava Paul et.al.|[2208.09198](http://arxiv.org/abs/2208.09198)|**[link](https://github.com/mvp18/ttt-ucdr)**|
 |**2022-08-17**|**Visual Cross-View Metric Localization with Dense Uncertainty Estimates**|Zimin Xia et.al.|[2208.08519](http://arxiv.org/abs/2208.08519)|**[link](https://github.com/tudelft-iv/crossviewmetriclocalization)**|
 |**2022-08-17**|**Understanding Attention for Vision-and-Language Tasks**|Feiqi Cao et.al.|[2208.08104](http://arxiv.org/abs/2208.08104)|**[link](https://github.com/adlnlp/attention_vl)**|
@@ -2008,7 +2008,7 @@
 |**2024-11-27**|**HI-SLAM2: Geometry-Aware Gaussian SLAM for Fast Monocular Scene Reconstruction**|Wei Zhang et.al.|[2411.17982](http://arxiv.org/abs/2411.17982)|null|
 |**2024-11-26**|**DROID-Splat: Combining end-to-end SLAM with 3D Gaussian Splatting**|Christian Homeyer et.al.|[2411.17660](http://arxiv.org/abs/2411.17660)|**[link](https://github.com/chenhoy/droid-splat)**|
 |**2024-11-26**|**Distractor-free Generalizable 3D Gaussian Splatting**|Yanqi Bao et.al.|[2411.17605](http://arxiv.org/abs/2411.17605)|**[link](https://github.com/bbbbby-99/dggs)**|
-|**2024-11-26**|**DRiVE: Diffusion-based Rigging Empowers Generation of Versatile and Expressive Characters**|Mingze Sun et.al.|[2411.17423](http://arxiv.org/abs/2411.17423)|null|
+|**2024-11-26**|**DRiVE: Diffusion-based Rigging Empowers Generation of Versatile and Expressive Characters**|Mingze Sun et.al.|[2411.17423](http://arxiv.org/abs/2411.17423)|**[link](https://github.com/DRiVEAvatar/DRiVEAvatar.github.io)**|
 |**2024-11-27**|**SelfSplat: Pose-Free and 3D Prior-Free Generalizable 3D Gaussian Splatting**|Gyeongjin Kang et.al.|[2411.17190](http://arxiv.org/abs/2411.17190)|null|
 |**2024-11-26**|**PhysMotion: Physics-Grounded Dynamics From a Single Image**|Xiyang Tan et.al.|[2411.17189](http://arxiv.org/abs/2411.17189)|null|
 |**2024-11-25**|**G2SDF: Surface Reconstruction from Explicit Gaussians with Implicit SDFs**|Kunyi Li et.al.|[2411.16898](http://arxiv.org/abs/2411.16898)|null|
