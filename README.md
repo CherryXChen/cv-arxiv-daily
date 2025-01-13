@@ -1572,6 +1572,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-10**|**UV-Attack: Physical-World Adversarial Attacks for Person Detection via Dynamic-NeRF-based UV Mapping**|Yanjie Li et.al.|[2501.05783](http://arxiv.org/abs/2501.05783)|null|
 |**2025-01-09**|**Light Transport-aware Diffusion Posterior Sampling for Single-View Reconstruction of 3D Volumes**|Ludwic Leonard et.al.|[2501.05226](http://arxiv.org/abs/2501.05226)|null|
 |**2025-01-07**|**NeRFs are Mirror Detectors: Using Structural Similarity for Multi-View Mirror Scene Reconstruction with 3D Surface Primitives**|Leif Van Holland et.al.|[2501.04074](http://arxiv.org/abs/2501.04074)|null|
 |**2025-01-07**|**NeuralSVG: An Implicit Representation for Text-to-Vector Generation**|Sagi Polaczek et.al.|[2501.03992](http://arxiv.org/abs/2501.03992)|null|
@@ -2142,6 +2143,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-10**|**Locality-aware Gaussian Compression for Fast and High-quality Rendering**|Seungjoo Shin et.al.|[2501.05757](http://arxiv.org/abs/2501.05757)|null|
 |**2025-01-09**|**Arc2Avatar: Generating Expressive 3D Avatars from a Single Image via ID Guidance**|Dimitrios Gerogiannis et.al.|[2501.05379](http://arxiv.org/abs/2501.05379)|null|
 |**2025-01-09**|**Scaffold-SLAM: Structured 3D Gaussians for Simultaneous Localization and Photorealistic Mapping**|Wen Tianci et.al.|[2501.05242](http://arxiv.org/abs/2501.05242)|null|
 |**2025-01-08**|**GaussianVideo: Efficient Video Representation via Hierarchical Gaussian Splatting**|Andrew Bond et.al.|[2501.04782](http://arxiv.org/abs/2501.04782)|null|
