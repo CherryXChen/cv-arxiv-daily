@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.02
+## Updated on 2025.03.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -457,7 +457,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-24**|**Unposed Sparse Views Room Layout Reconstruction in the Age of Pretrain Model**|Yaxuan Huang et.al.|[2502.16779](http://arxiv.org/abs/2502.16779)|null|
+|**2025-02-28**|**Unposed Sparse Views Room Layout Reconstruction in the Age of Pretrain Model**|Yaxuan Huang et.al.|[2502.16779](http://arxiv.org/abs/2502.16779)|null|
 |**2025-02-20**|**CDGS: Confidence-Aware Depth Regularization for 3D Gaussian Splatting**|Qilin Zhang et.al.|[2502.14684](http://arxiv.org/abs/2502.14684)|**[link](https://github.com/zqlin0521/cdgs-release)**|
 |**2025-02-19**|**Structure-from-Sherds++: Robust Incremental 3D Reassembly of Axially Symmetric Pots from Unordered and Mixed Fragment Collections**|Seong Jong Yoo et.al.|[2502.13986](http://arxiv.org/abs/2502.13986)|null|
 |**2025-02-19**|**IM360: Textured Mesh Reconstruction for Large-scale Indoor Mapping with 360 $^\circ$ Cameras**|Dongki Jung et.al.|[2502.12545](http://arxiv.org/abs/2502.12545)|null|
@@ -1474,7 +1474,7 @@ layout: default
 |**2025-02-26**|**BEV-LIO(LC): BEV Image Assisted LiDAR-Inertial Odometry with Loop Closure**|Haoxin Cai et.al.|[2502.19242](http://arxiv.org/abs/2502.19242)|null|
 |**2025-02-25**|**PromptMID: Modal Invariant Descriptors Based on Diffusion and Vision Foundation Models for Optical-SAR Image Matching**|Han Nie et.al.|[2502.18104](http://arxiv.org/abs/2502.18104)|**[link](https://github.com/hanniewhu/promptmid)**|
 |**2025-02-25**|**Improving Transformer Based Line Segment Detection with Matched Predicting and Re-ranking**|Xin Tong et.al.|[2502.17766](http://arxiv.org/abs/2502.17766)|null|
-|**2025-02-24**|**Unposed Sparse Views Room Layout Reconstruction in the Age of Pretrain Model**|Yaxuan Huang et.al.|[2502.16779](http://arxiv.org/abs/2502.16779)|null|
+|**2025-02-28**|**Unposed Sparse Views Room Layout Reconstruction in the Age of Pretrain Model**|Yaxuan Huang et.al.|[2502.16779](http://arxiv.org/abs/2502.16779)|null|
 |**2025-02-16**|**FeaKM: Robust Collaborative Perception under Noisy Pose Conditions**|Jiuwu Hao et.al.|[2502.11003](http://arxiv.org/abs/2502.11003)|**[link](https://github.com/uestchjw/feakm)**|
 |**2025-02-24**|**Enhancing Ground-to-Aerial Image Matching for Visual Misinformation Detection Using Semantic Segmentation**|Emanuele Mule et.al.|[2502.06288](http://arxiv.org/abs/2502.06288)|**[link](https://github.com/MatteoPannacci/SemanticAlignNet-QUAD)**|
 |**2025-02-04**|**Muographic Image Upsampling with Machine Learning for Built Infrastructure Applications**|William O'Donnell et.al.|[2502.02624](http://arxiv.org/abs/2502.02624)|null|
@@ -2281,7 +2281,7 @@ layout: default
 |**2025-02-26**|**Building Interactable Replicas of Complex Articulated Objects via Gaussian Splatting**|Yu Liu et.al.|[2502.19459](http://arxiv.org/abs/2502.19459)|null|
 |**2025-02-26**|**Compression in 3D Gaussian Splatting: A Survey of Methods, Trends, and Future Directions**|Muhammad Salman Ali et.al.|[2502.19457](http://arxiv.org/abs/2502.19457)|null|
 |**2025-02-26**|**Does 3D Gaussian Splatting Need Accurate Volumetric Rendering?**|Adam Celarek et.al.|[2502.19318](http://arxiv.org/abs/2502.19318)|null|
-|**2025-02-25**|**OpenFly: A Versatile Toolchain and Large-scale Benchmark for Aerial Vision-Language Navigation**|Yunpeng Gao et.al.|[2502.18041](http://arxiv.org/abs/2502.18041)|null|
+|**2025-02-28**|**OpenFly: A Versatile Toolchain and Large-scale Benchmark for Aerial Vision-Language Navigation**|Yunpeng Gao et.al.|[2502.18041](http://arxiv.org/abs/2502.18041)|null|
 |**2025-02-27**|**UniGS: Unified Language-Image-3D Pretraining with Gaussian Splatting**|Haoyuan Li et.al.|[2502.17860](http://arxiv.org/abs/2502.17860)|null|
 |**2025-02-24**|**Laplace-Beltrami Operator for Gaussian Splatting**|Hongyu Zhou et.al.|[2502.17531](http://arxiv.org/abs/2502.17531)|null|
 |**2025-02-24**|**Graph-Guided Scene Reconstruction from Images with 3D Gaussian Splatting**|Chong Cheng et.al.|[2502.17377](http://arxiv.org/abs/2502.17377)|null|
