@@ -474,6 +474,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-10**|**DaD: Distilled Reinforcement Learning for Diverse Keypoint Detection**|Johan Edstedt et.al.|[2503.07347](http://arxiv.org/abs/2503.07347)|null|
+|**2025-03-10**|**Endo-FASt3r: Endoscopic Foundation model Adaptation for Structure from motion**|Mona Sheikh Zeinoddin et.al.|[2503.07204](http://arxiv.org/abs/2503.07204)|null|
+|**2025-03-10**|**VidBot: Learning Generalizable 3D Actions from In-the-Wild 2D Human Videos for Zero-Shot Robotic Manipulation**|Hanzhi Chen et.al.|[2503.07135](http://arxiv.org/abs/2503.07135)|null|
 |**2025-03-06**|**PLMP -- Point-Line Minimal Problems for Projective SfM**|Kim Kiehn et.al.|[2503.04351](http://arxiv.org/abs/2503.04351)|null|
 |**2025-03-03**|**ecg2o: A Seamless Extension of g2o for Equality-Constrained Factor Graph Optimization**|Anas Abdelkarim et.al.|[2503.01311](http://arxiv.org/abs/2503.01311)|**[link](https://github.com/snt-arg/ecg2o)**|
 |**2025-03-05**|**A Multi-Sensor Fusion Approach for Rapid Orthoimage Generation in Large-Scale UAV Mapping**|Jialei He et.al.|[2503.01202](http://arxiv.org/abs/2503.01202)|null|
@@ -672,6 +675,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-10**|**Endo-FASt3r: Endoscopic Foundation model Adaptation for Structure from motion**|Mona Sheikh Zeinoddin et.al.|[2503.07204](http://arxiv.org/abs/2503.07204)|null|
+|**2025-03-10**|**Find your Needle: Small Object Image Retrieval via Multi-Object Attention Optimization**|Mihcael Green et.al.|[2503.07038](http://arxiv.org/abs/2503.07038)|null|
+|**2025-03-10**|**Zero-Shot Hashing Based on Reconstruction With Part Alignment**|Yan Jiang et.al.|[2503.07037](http://arxiv.org/abs/2503.07037)|null|
+|**2025-03-10**|**Improving Visual Place Recognition with Sequence-Matching Receptiveness Prediction**|Somayeh Hussaini et.al.|[2503.06840](http://arxiv.org/abs/2503.06840)|null|
+|**2025-03-09**|**RoboDesign1M: A Large-scale Dataset for Robot Design Understanding**|Tri Le et.al.|[2503.06796](http://arxiv.org/abs/2503.06796)|null|
+|**2025-03-09**|**StructVPR++: Distill Structural and Semantic Knowledge with Weighting Samples for Visual Place Recognition**|Yanqing Shen et.al.|[2503.06601](http://arxiv.org/abs/2503.06601)|null|
+|**2025-03-09**|**TextInPlace: Indoor Visual Place Recognition in Repetitive Structures with Scene Text Spotting and Verification**|Huaqi Tao et.al.|[2503.06501](http://arxiv.org/abs/2503.06501)|null|
+|**2025-03-08**|**NeuraLoc: Visual Localization in Neural Implicit Map with Dual Complementary Features**|Hongjia Zhai et.al.|[2503.06117](http://arxiv.org/abs/2503.06117)|null|
 |**2025-03-07**|**Data-Efficient Generalization for Zero-shot Composed Image Retrieval**|Zining Chen et.al.|[2503.05204](http://arxiv.org/abs/2503.05204)|null|
 |**2025-03-07**|**GaussianCAD: Robust Self-Supervised CAD Reconstruction from Three Orthographic Views Using 3D Gaussian Splatting**|Zheng Zhou et.al.|[2503.05161](http://arxiv.org/abs/2503.05161)|null|
 |**2025-03-06**|**RadIR: A Scalable Framework for Multi-Grained Medical Image Retrieval via Radiology Report Mining**|Tengfei Zhang et.al.|[2503.04653](http://arxiv.org/abs/2503.04653)|null|
@@ -1325,6 +1336,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-10**|**REF-VLM: Triplet-Based Referring Paradigm for Unified Visual Decoding**|Yan Tai et.al.|[2503.07413](http://arxiv.org/abs/2503.07413)|**[link](https://github.com/MacavityT/REF-VLM)**|
+|**2025-03-10**|**DaD: Distilled Reinforcement Learning for Diverse Keypoint Detection**|Johan Edstedt et.al.|[2503.07347](http://arxiv.org/abs/2503.07347)|null|
 |**2025-03-07**|**Automatic determination of quasicrystalline patterns from microscopy images**|Tano Kim Kender et.al.|[2503.05472](http://arxiv.org/abs/2503.05472)|null|
 |**2025-03-07**|**Spatial regularisation for improved accuracy and interpretability in keypoint-based registration**|Benjamin Billot et.al.|[2503.04499](http://arxiv.org/abs/2503.04499)|null|
 |**2025-03-04**|**A Novel Streamline-based diffusion MRI Tractography Registration Method with Probabilistic Keypoint Detection**|Junyi Wang et.al.|[2503.02481](http://arxiv.org/abs/2503.02481)|null|
@@ -1718,6 +1731,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-10**|**CATPlan: Loss-based Collision Prediction in End-to-End Autonomous Driving**|Ziliang Xiong et.al.|[2503.07425](http://arxiv.org/abs/2503.07425)|null|
+|**2025-03-08**|**Feature-EndoGaussian: Feature Distilled Gaussian Splatting in Surgical Deformable Scene Reconstruction**|Kai Li et.al.|[2503.06161](http://arxiv.org/abs/2503.06161)|null|
+|**2025-03-08**|**SecureGS: Boosting the Security and Fidelity of 3D Gaussian Splatting Steganography**|Xuanyu Zhang et.al.|[2503.06118](http://arxiv.org/abs/2503.06118)|null|
+|**2025-03-08**|**NeuraLoc: Visual Localization in Neural Implicit Map with Dual Complementary Features**|Hongjia Zhai et.al.|[2503.06117](http://arxiv.org/abs/2503.06117)|null|
 |**2025-03-06**|**Surgical Gaussian Surfels: Highly Accurate Real-time Surgical Scene Rendering**|Idris O. Sunmola et.al.|[2503.04079](http://arxiv.org/abs/2503.04079)|null|
 |**2025-03-05**|**LensDFF: Language-enhanced Sparse Feature Distillation for Efficient Few-Shot Dexterous Manipulation**|Qian Feng et.al.|[2503.03890](http://arxiv.org/abs/2503.03890)|null|
 |**2025-03-04**|**Tracking-Aware Deformation Field Estimation for Non-rigid 3D Reconstruction in Robotic Surgeries**|Zeqing Wang et.al.|[2503.02558](http://arxiv.org/abs/2503.02558)|null|
@@ -2349,6 +2366,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-10**|**SOGS: Second-Order Anchor for Advanced 3D Gaussian Splatting**|Jiahui Zhang et.al.|[2503.07476](http://arxiv.org/abs/2503.07476)|null|
+|**2025-03-10**|**EigenGS Representation: From Eigenspace to Gaussian Image Space**|Lo-Wei Tai et.al.|[2503.07446](http://arxiv.org/abs/2503.07446)|null|
+|**2025-03-10**|**All That Glitters Is Not Gold: Key-Secured 3D Secrets within 3D Gaussian Splatting**|Yan Ren et.al.|[2503.07191](http://arxiv.org/abs/2503.07191)|null|
+|**2025-03-10**|**Frequency-Aware Density Control via Reparameterization for High-Quality Rendering of 3D Gaussian Splatting**|Zhaojie Zeng et.al.|[2503.07000](http://arxiv.org/abs/2503.07000)|null|
+|**2025-03-10**|**DirectTriGS: Triplane-based Gaussian Splatting Field Representation for 3D Generation**|Xiaoliang Ju et.al.|[2503.06900](http://arxiv.org/abs/2503.06900)|null|
+|**2025-03-09**|**D3DR: Lighting-Aware Object Insertion in Gaussian Splatting**|Vsevolod Skorokhodov et.al.|[2503.06740](http://arxiv.org/abs/2503.06740)|null|
+|**2025-03-09**|**REArtGS: Reconstructing and Generating Articulated Objects via 3D Gaussian Splatting with Geometric and Motion Constraints**|Di Wu et.al.|[2503.06677](http://arxiv.org/abs/2503.06677)|null|
+|**2025-03-09**|**StructGS: Adaptive Spherical Harmonics and Rendering Enhancements for Superior 3D Gaussian Splatting**|Zexu Huang et.al.|[2503.06462](http://arxiv.org/abs/2503.06462)|null|
+|**2025-03-08**|**SplatTalk: 3D VQA with Gaussian Splatting**|Anh Thai et.al.|[2503.06271](http://arxiv.org/abs/2503.06271)|null|
+|**2025-03-08**|**StreamGS: Online Generalizable Gaussian Splatting Reconstruction for Unposed Image Streams**|Yang LI et.al.|[2503.06235](http://arxiv.org/abs/2503.06235)|null|
 |**2025-03-07**|**Free Your Hands: Lightweight Relightable Turntable Capture Pipeline**|Jiahui Fan et.al.|[2503.05511](http://arxiv.org/abs/2503.05511)|null|
 |**2025-03-07**|**LiDAR-enhanced 3D Gaussian Splatting Mapping**|Jian Shen et.al.|[2503.05425](http://arxiv.org/abs/2503.05425)|null|
 |**2025-03-07**|**Self-Modeling Robots by Photographing**|Kejun Hu et.al.|[2503.05398](http://arxiv.org/abs/2503.05398)|null|
