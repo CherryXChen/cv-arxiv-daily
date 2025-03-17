@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.16
+## Updated on 2025.03.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2367,7 +2367,7 @@ layout: default
 |**2025-03-13**|**4D LangSplat: 4D Language Gaussian Splatting via Multimodal Large Language Models**|Wanhua Li et.al.|[2503.10437](http://arxiv.org/abs/2503.10437)|null|
 |**2025-03-13**|**VicaSplat: A Single Run is All You Need for 3D Gaussian Splatting and Camera Estimation from Unposed Video Frames**|Zhiqi Li et.al.|[2503.10286](http://arxiv.org/abs/2503.10286)|null|
 |**2025-03-13**|**ROODI: Reconstructing Occluded Objects with Denoising Inpainters**|Yeonjin Chang et.al.|[2503.10256](http://arxiv.org/abs/2503.10256)|null|
-|**2025-03-13**|**3D Student Splatting and Scooping**|Jialin Zhu et.al.|[2503.10148](http://arxiv.org/abs/2503.10148)|null|
+|**2025-03-13**|**3D Student Splatting and Scooping**|Jialin Zhu et.al.|[2503.10148](http://arxiv.org/abs/2503.10148)|**[link](https://github.com/realcrane/student-splating-scooping)**|
 |**2025-03-13**|**GaussHDR: High Dynamic Range Gaussian Splatting via Learning Unified 3D and 2D Local Tone Mapping**|Jinfeng Liu et.al.|[2503.10143](http://arxiv.org/abs/2503.10143)|null|
 |**2025-03-13**|**TGP: Two-modal occupancy prediction with 3D Gaussian and sparse points for 3D Environment Awareness**|Mu Chen et.al.|[2503.09941](http://arxiv.org/abs/2503.09941)|null|
 |**2025-03-12**|**Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation**|Máté Tóth et.al.|[2503.09464](http://arxiv.org/abs/2503.09464)|null|
