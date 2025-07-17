@@ -483,6 +483,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**BRUM: Robust 3D Vehicle Reconstruction from 360 Sparse Images**|Davide Di Nucci et.al.|[2507.12095](http://arxiv.org/abs/2507.12095)|null|
 |**2025-07-11**|**Review of Feed-forward 3D Reconstruction: From DUSt3R to VGGT**|Wei Zhang et.al.|[2507.08448](http://arxiv.org/abs/2507.08448)|null|
 |**2025-07-04**|**MGSfM: Multi-Camera Geometry Driven Global Structure-from-Motion**|Peilin Tao et.al.|[2507.03306](http://arxiv.org/abs/2507.03306)|null|
 |**2025-06-30**|**AttentionGS: Towards Initialization-Free 3D Gaussian Splatting via Structural Attention**|Ziao Liu et.al.|[2506.23611](http://arxiv.org/abs/2506.23611)|null|
@@ -738,6 +739,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**SpatialTrackerV2: 3D Point Tracking Made Easy**|Yuxi Xiao et.al.|[2507.12462](http://arxiv.org/abs/2507.12462)|null|
+|**2025-07-16**|**QuRe: Query-Relevant Retrieval through Hard Negative Sampling in Composed Image Retrieval**|Jaehyun Kwak et.al.|[2507.12416](http://arxiv.org/abs/2507.12416)|null|
+|**2025-07-16**|**BRUM: Robust 3D Vehicle Reconstruction from 360 Sparse Images**|Davide Di Nucci et.al.|[2507.12095](http://arxiv.org/abs/2507.12095)|null|
+|**2025-07-16**|**SGLoc: Semantic Localization System for Camera Pose Estimation from 3D Gaussian Splatting Representation**|Beining Xu et.al.|[2507.12027](http://arxiv.org/abs/2507.12027)|null|
+|**2025-07-16**|**CorrMoE: Mixture of Experts with De-stylization Learning for Cross-Scene and Cross-Domain Correspondence Pruning**|Peiwen Xia et.al.|[2507.11834](http://arxiv.org/abs/2507.11834)|null|
 |**2025-07-09**|**Orchestrator-Agent Trust: A Modular Agentic AI Visual Classification System with Trust-Aware Orchestration and RAG-Based Reasoning**|Konstantinos I. Roumeliotis et.al.|[2507.10571](http://arxiv.org/abs/2507.10571)|null|
 |**2025-07-14**|**GT-Loc: Unifying When and Where in Images Through a Joint Embedding Space**|David G. Shatwell et.al.|[2507.10473](http://arxiv.org/abs/2507.10473)|null|
 |**2025-07-14**|**Text-to-Remote-Sensing-Image Retrieval beyond RGB Sources**|Daniele Rege Cambrin et.al.|[2507.10403](http://arxiv.org/abs/2507.10403)|null|
@@ -2037,6 +2043,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**DoRF: Doppler Radiance Fields for Robust Human Activity Recognition Using Wi-Fi**|Navid Hasanzadeh et.al.|[2507.12132](http://arxiv.org/abs/2507.12132)|null|
+|**2025-07-16**|**HPR3D: Hierarchical Proxy Representation for High-Fidelity 3D Reconstruction and Controllable Editing**|Tielong Wang et.al.|[2507.11971](http://arxiv.org/abs/2507.11971)|null|
 |**2025-07-14**|**VoxelRF: Voxelized Radiance Field for Fast Wireless Channel Modeling**|Zihang Zeng et.al.|[2507.09987](http://arxiv.org/abs/2507.09987)|null|
 |**2025-07-12**|**Stable Score Distillation**|Haiming Zhu et.al.|[2507.09168](http://arxiv.org/abs/2507.09168)|null|
 |**2025-07-11**|**From images to properties: a NeRF-driven framework for granular material parameter inversion**|Cheng-Hsi Hsiao et.al.|[2507.09005](http://arxiv.org/abs/2507.09005)|null|
@@ -2838,6 +2846,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**SGLoc: Semantic Localization System for Camera Pose Estimation from 3D Gaussian Splatting Representation**|Beining Xu et.al.|[2507.12027](http://arxiv.org/abs/2507.12027)|null|
+|**2025-07-16**|**Dark-EvGS: Event Camera as an Eye for Radiance Field in the Dark**|Jingqian Wu et.al.|[2507.11931](http://arxiv.org/abs/2507.11931)|null|
 |**2025-07-15**|**Robust 3D-Masked Part-level Editing in 3D Gaussian Splatting with Regularized Score Distillation Sampling**|Hayeon Kim et.al.|[2507.11061](http://arxiv.org/abs/2507.11061)|null|
 |**2025-07-14**|**ScaffoldAvatar: High-Fidelity Gaussian Avatars with Patch Expressions**|Shivangi Aneja et.al.|[2507.10542](http://arxiv.org/abs/2507.10542)|null|
 |**2025-07-14**|**3DGAA: Realistic and Robust 3D Gaussian-based Adversarial Attack for Autonomous Driving**|Yixun Zhang et.al.|[2507.09993](http://arxiv.org/abs/2507.09993)|null|
