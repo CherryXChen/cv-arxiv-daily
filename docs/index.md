@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.22
+## Updated on 2025.07.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1824,7 +1824,7 @@ layout: default
 |**2025-06-30**|**Efficient and Accurate Image Provenance Analysis: A Scalable Pipeline for Large-scale Images**|Jiewei Lai et.al.|[2506.23707](http://arxiv.org/abs/2506.23707)|null|
 |**2025-06-29**|**Dynamic Contrastive Learning for Hierarchical Retrieval: A Case Study of Distance-Aware Cross-View Geo-Localization**|Suofei Zhang et.al.|[2506.23077](http://arxiv.org/abs/2506.23077)|null|
 |**2025-06-27**|**MatChA: Cross-Algorithm Matching with Feature Augmentation**|Paula Carbó Cubero et.al.|[2506.22336](http://arxiv.org/abs/2506.22336)|null|
-|**2025-07-07**|**Q-Frame: Query-aware Frame Selection and Multi-Resolution Adaptation for Video-LLMs**|Shaojie Zhang et.al.|[2506.22139](http://arxiv.org/abs/2506.22139)|null|
+|**2025-07-22**|**Q-Frame: Query-aware Frame Selection and Multi-Resolution Adaptation for Video-LLMs**|Shaojie Zhang et.al.|[2506.22139](http://arxiv.org/abs/2506.22139)|null|
 |**2025-06-27**|**ZeroReg3D: A Zero-shot Registration Pipeline for 3D Consecutive Histopathology Image Reconstruction**|Juming Xiong et.al.|[2506.21923](http://arxiv.org/abs/2506.21923)|null|
 |**2025-06-25**|**Fast entropy-regularized SDP relaxations for permutation synchronization**|Michael Lindsey et.al.|[2506.20191](http://arxiv.org/abs/2506.20191)|null|
 |**2025-06-18**|**ReSeDis: A Dataset for Referring-based Object Search across Large-Scale Image Collections**|Ziling Huang et.al.|[2506.15180](http://arxiv.org/abs/2506.15180)|null|
@@ -2871,7 +2871,7 @@ layout: default
 |**2025-07-21**|**Gaussian Splatting with Discretized SDF for Relightable Assets**|Zuo-Liang Zhu et.al.|[2507.15629](http://arxiv.org/abs/2507.15629)|null|
 |**2025-07-21**|**SurfaceSplat: Connecting Surface Reconstruction and Gaussian Splatting**|Zihui Gao et.al.|[2507.15602](http://arxiv.org/abs/2507.15602)|null|
 |**2025-07-21**|**ObjectGS: Object-aware Scene Reconstruction and Scene Understanding via Gaussian Splatting**|Ruijie Zhu et.al.|[2507.15454](http://arxiv.org/abs/2507.15454)|null|
-|**2025-07-21**|**GCC: A 3DGS Inference Architecture with Gaussian-Wise and Cross-Stage Conditional Processing**|Minnan Pei et.al.|[2507.15300](http://arxiv.org/abs/2507.15300)|null|
+|**2025-07-22**|**GCC: A 3DGS Inference Architecture with Gaussian-Wise and Cross-Stage Conditional Processing**|Minnan Pei et.al.|[2507.15300](http://arxiv.org/abs/2507.15300)|null|
 |**2025-07-20**|**Stereo-GS: Multi-View Stereo Vision Model for Generalizable 3D Gaussian Splatting Reconstruction**|Xiufeng Huang et.al.|[2507.14921](http://arxiv.org/abs/2507.14921)|null|
 |**2025-07-19**|**Advances in Feed-Forward 3D Reconstruction and View Synthesis: A Survey**|Jiahui Zhang et.al.|[2507.14501](http://arxiv.org/abs/2507.14501)|null|
 |**2025-07-19**|**Adaptive 3D Gaussian Splatting Video Streaming: Visual Saliency-Aware Tiling and Meta-Learning-Based Bitrate Adaptation**|Han Gong et.al.|[2507.14454](http://arxiv.org/abs/2507.14454)|null|
